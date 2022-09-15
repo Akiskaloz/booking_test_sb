@@ -1,0 +1,5 @@
+venv/
+archived_logs/
+.pytest_cache/
+latest_logs/
+.idea/
